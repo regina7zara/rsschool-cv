@@ -28,7 +28,13 @@ I study hard and have a good ability to selfeducation, so I believe, that I'll m
 *   PHP, MySql
 *   jQuery
 *   Git, GitHub
-*   
+*   VS Code
+*   SEO, Internet Marketing
+*   Sketch, Figma
+*   Good communication skills
+*   Ability to work on my own with minimum supervision
+*   Ability to work in team
+
 * * *
 
 ### Code example:
