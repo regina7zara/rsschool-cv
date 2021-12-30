@@ -50,7 +50,7 @@ I study hard and have a good ability to selfeducation, so I believe, that I'll m
 
 ### Languages:
 
-*   Eh - Upper-intermediate
+*   English - Upper-intermediate
 *   Russian - Native
 *   Ukrainian - Intermediate
 *   Italian - Upper-intermediate
