@@ -1,4 +1,12 @@
-font-family: 'Montserrat';
+@font-family: 'Montserrat';
     font-style: normal;
     font-weight: normal;
     src: local(''), url('') format('');
+
+
+@font-face {
+    font-family: 'MagistralC Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MagistralC Bold'), url('font/MagistralC-Bold.woff') format('woff');
+    }
