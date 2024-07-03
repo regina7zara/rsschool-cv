@@ -1,13 +1,13 @@
-#Anastasiia Nizhelska
+# Anastasiia Nizhelska
 ******************************************************************************
-##Contacts
+## Contacts
 
 Phone: +38 093 846 81 57
 
 E-mail: reg7zxc@gmail.com
 ******************************************************************************
 
-###About Myself:
+### About Myself:
 
 I work in a team at a small developing company that prowides software for urban infrastructure and I also have a remote work as a SEO specialist.
 
@@ -17,41 +17,42 @@ I study hard and have a good ability to selfeducation, so I believe, that I’ll
 
 *******************************************************************************
 
-###Skills:
+### Skills:
 
-*HTML5, CSS3
+- HTML5, CSS3
 
-*PHP, MySql
+- PHP, MySql
 
-*jQuery
+- jQuery
 
-*Git, GitHub
+- Git, GitHub
 
-*VS Code
+- VS Code
 
-*SEO, Internet Marketing
+- SEO, Internet Marketing
 
-*Sketch, Figma
+- Sketch, Figma
 
-*Good communication skills
+- Good communication skills
 
-*Ability to work on my own with minimum supervision
+- Ability to work on my own with minimum supervision
 
-*Ability to work in team
+- Ability to work in team
 
 ********************************************************************************
 
-###Code example:
+### Code example:
+\```
 
 **This code does not execute properly. Try to figure out why.
 
     function multiply(a, b){
  return a * b
 }
-
+\```
 **************************************************************************************
 
-###Languages:
+### Languages:
 
 English - Upper-intermediate
 
@@ -61,4 +62,4 @@ Ukrainian - Intermediate
 
 Italian - Upper-intermediate
 
-Romanian /
+
