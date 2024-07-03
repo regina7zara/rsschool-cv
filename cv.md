@@ -42,14 +42,14 @@ I study hard and have a good ability to selfeducation, so I believe, that I’ll
 ********************************************************************************
 
 ### Code example:
-\```
+```
 
-**This code does not execute properly. Try to figure out why.
+This code does not execute properly. Try to figure out why.
 
     function multiply(a, b){
  return a * b
 }
-\```
+```
 **************************************************************************************
 
 ### Languages:
