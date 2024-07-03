@@ -20,14 +20,23 @@ I study hard and have a good ability to selfeducation, so I believe, that I’ll
 ###Skills:
 
 *HTML5, CSS3
+
 *PHP, MySql
+
 *jQuery
+
 *Git, GitHub
+
 *VS Code
+
 *SEO, Internet Marketing
+
 *Sketch, Figma
+
 *Good communication skills
+
 *Ability to work on my own with minimum supervision
+
 *Ability to work in team
 
 ********************************************************************************
@@ -45,7 +54,11 @@ I study hard and have a good ability to selfeducation, so I believe, that I’ll
 ###Languages:
 
 English - Upper-intermediate
+
 Russian - Native
+
 Ukrainian - Intermediate
+
 Italian - Upper-intermediate
+
 Romanian /
