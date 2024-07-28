@@ -1,0 +1,509 @@
+@font-face {
+    font-family: "Georgia";
+    src: url("Fonts/Georgia/georgia.ttf") 
+  }
+
+  @font-face {
+    font-family: "Arial";
+    src: url("Fonts/Arial/arialmt.ttf");
+  }
+
+  html{
+    box-sizing: border-box;
+}
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+.wraper{
+    max-width: 1200px;
+    margin: 0 auto;
+   
+
+}
+body{
+  background-color: #FFFFFF;
+}
+.clear{
+  clear: both;
+}
+
+/* ============ HEADER ========= START ======= */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 1280px;
+    height: 120px;
+    background-color: #FFFFFF;
+}
+.header_logo {
+  width: 184px;
+  height: 60px;
+  float: left;
+  margin-top: 30px;
+  margin-left: 0px; 
+ 
+}
+.header_menu {
+    float: right;
+
+
+}
+.header_menu li {
+  display: inline-block;
+  margin-left:35px;
+  margin-top: 46px;
+font-family: Arial;
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+/* border-bottom: 3px solid #F1CDB3; */
+}
+.header_menu li .under {
+  display: inline-block;
+  /* margin-left:35px; */
+  /* margin-top:30px; */
+font-family: Arial;
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+border-bottom: 3px solid #F1CDB3;
+}
+/* .header_menu li a :hover {
+border-bottom: 3px solid #F1CDB3;
+} */
+.header__link{
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-family: Arial;
+  font-size: 15px;
+  color: #292929;
+  font-style: normal;
+  line-height: 160%;
+  letter-spacing: 0px;
+  text-decoration: none;
+}
+.header__link:hover {
+  font-family: Arial;
+  font-size: 15px;
+  color: #292929;
+  font-style: normal;
+  letter-spacing: 0px;
+  text-decoration: none;
+  display: inline-block;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+border-bottom: 3px solid #F1CDB3;
+}
+
+
+.logo_title {
+    font-family: Georgia;
+    font-size: 32px;
+    color: #545454;
+    font-style: normal;
+    line-height: 110%;
+    letter-spacing: 6%;
+    padding: 0px;
+    font-weight: 100;
+    
+}
+
+.logo_subtitle {
+    font-family: Arial;
+    font-size: 14px;
+    color: #292929;
+    font-style: normal;
+    line-height: 35.2px;
+    letter-spacing: 6% !important;
+    padding-left: 5px;
+    margin-top: 10px !important;
+
+}
+.menu-main {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #292929;
+    font-style: normal;
+    line-height: 160%;
+    letter-spacing: 0px;
+
+}
+/* =========== HEADER =========== END ============ */
+
+
+
+
+/* =========== SECTION *** OUR FRIENDS *** =========== END ============ */
+.our_friends{
+    width: 1280px;
+    height: 1342px;
+    background-color: #F6F6F6;
+    /* background: url(../img/intro-bg.jpg) no-repeat center; */
+    background-size: cover;
+  
+  }
+  
+  .our_friends_container{
+    width: 1200px;
+    height: 90px;
+    margin-top: 60px;
+    text-align: center;
+  
+  }
+  .our_friends_topic{
+      font-family: Georgia, 'Times New Roman', Times, serif !important;
+      font-size: 42px !important;
+      color: #545454;
+      font-style: normal !important;
+      font-weight: 400;
+      line-height: 45.5px !important;
+      letter-spacing: 6% !important;
+      /* padding: 0px !important; */
+      /* margin-top: 90px; */
+      padding-top:100px;
+      
+  }
+  
+  .katrine{
+      width: 270px;
+      height: 435px;
+      background-color: #FAFAFA;
+      float: left;
+      margin-left: 0px;
+      margin-right:40px;
+      margin-top: 150px;
+      text-align: center;
+      
+     
+  
+  }
+  
+  .jennifer{
+    width: 270px;
+    height: 435px;
+    float: left;
+    background-color: #FAFAFA;
+    margin-right: 40px;
+    margin-top: 150px;
+    text-align: center;
+    
+  
+  
+  }
+  
+  .woody{
+  
+      width: 270px;
+      height: 435px;
+      float: left;
+      background-color: #FAFAFA;
+      margin-top: 150px;
+      text-align: center;
+      margin-right: 40px; 
+      
+  }
+
+  .sophia{
+    width: 270px;
+    height: 435px;
+    float: left;
+    background-color: #FAFAFA;
+    margin-top: 150px;
+    text-align: center;
+
+  }
+
+  .timmy{
+    width: 270px;
+    height: 435px;
+    float: left;
+    background-color: #FAFAFA;
+    margin-top: 150px;
+    text-align: center;
+    margin-right: 40px;
+    margin-top: 30px;
+  }
+
+  .charly{
+    width: 270px;
+    height: 435px;
+    float: left;
+    background-color: #FAFAFA;
+    margin-top: 150px;
+    text-align: center;
+    margin-right: 40px;
+    margin-top: 30px;
+
+  }
+
+  .scarlett{
+    width: 270px;
+    height: 435px;
+    float: left;
+    background-color: #FAFAFA;
+    margin-top: 150px;
+    text-align: center;
+    margin-right: 40px;
+    margin-top: 30px;
+  }
+
+  .freddie{
+    width: 270px;
+    height: 435px;
+    float: left;
+    background-color: #FAFAFA;
+    margin-top: 150px;
+    text-align: center;
+
+    margin-top: 30px;
+  }
+
+
+
+  .card{
+  
+      font-family: Georgia, 'Times New Roman', Times, serif !important;
+      font-size: 20px !important;
+      color: #545454;
+      font-style: normal !important;
+      font-weight: 400;
+      line-height: 22.72px !important;
+      letter-spacing: 6% !important;
+      margin-top: 30px !important;
+      
+  
+  }
+  
+  .card_button{
+  
+  font-family: Arial !important;
+  width: 187px;
+  height: 52px;
+  background-color: #FAFAFA;
+  border-width: 2px;
+  border-color: #F1CDB3;
+  box-shadow: none;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  color: #292929;
+  /* padding: 15px 32px; */
+  text-align: center;
+  text-decoration: none;
+  /* display: inline-block; */
+  font-size: 17px !important;
+  line-height: 130% !important;
+  letter-spacing: 6% !important;
+  border-radius: 100px !important;
+  margin-top: 30px !important;
+  padding: 0;
+  }
+  
+  
+  
+  .rest{
+  
+    width: 261px;
+    height: 52px;
+  
+  font-family: Arial !important;
+  
+  background-color: #F1CDB3;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-color: #F1CDB3;
+  color: #292929;
+  /* padding: 15px 32px; */
+  text-align: center;
+  text-decoration: none;
+  /* display: inline-block; */
+  font-size: 17px !important;
+  line-height: 130% !important;
+  letter-spacing: 6% !important;
+  border-radius: 100px !important;
+  margin-top: 60px !important;
+  padding: 0;
+  margin-left: 470px;
+  }
+
+
+  .buttons_pag{
+
+    font-family: Arial !important;
+    width: 52px;
+    height: 52px;
+    background-color: #FAFAFA;
+    border-width: 2px;
+    border-color: #F1CDB3;
+    box-shadow: none;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    color: #292929;
+    /* padding: 15px 32px; */
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 17px !important;
+    line-height: 130% !important;
+    letter-spacing: 6% !important;
+    border-radius: 100px !important;
+    padding: 0;
+    margin-right: 20px;
+    }
+
+    .rose{
+        background-color: #F1CDB3;
+    }
+
+    .container_pag{
+        width: 380px;
+        margin: 0 auto;
+        padding-top: 45px;
+        padding-left: -20px; */
+
+
+    }
+    
+    
+    
+  
+  
+  /* =========== SECTION *** OUR FRIENDS *** =========== END ============ */
+  
+  /* ==========
+
+
+
+
+
+
+
+/* =========== SECTION *** FOOTER *** =========== START ============ */
+
+.footer{
+    width: 1280px;
+    height: 350px;
+    background-color: #211F20;
+    
+    background-image: url(../img/footer-puppy.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: right 40px bottom;
+   
+}
+
+.footer_questions{
+  width: 278px;
+  float: left;
+  margin-top: 56px;
+  margin-left: 0px;
+  
+
+}
+
+.footer_location{
+  width: 302px;
+  float: right;
+  margin-top: 56px;
+  margin-right: 460px;
+  
+
+}
+
+.footer_dog{
+  width: 300px;
+  height: 310px;
+  float: left;
+  padding-top: 40px;
+  margin-left: 160px;
+  
+
+}
+
+.footer_heading{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 35px !important;
+  color: #FFFFFF;
+  font-weight: 400;
+  font-style: normal;
+  
+
+}
+.footer_email{
+
+  color: #F1CDB3;
+  margin-top: 20px;
+  padding-top: 10px;
+  
+}
+.email_item{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px !important;
+    line-height: 23px !important;
+    letter-spacing: 7% !important;
+    
+    /* margin-top: 20px !important; */
+
+}
+.footer_phone{
+  color: #F1CDB3;
+  margin-top: 35px;
+  padding-top: 15px !important;
+  
+}
+.phone_item{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px !important;
+    line-height: 23px !important;
+    letter-spacing: 7% !important;
+    
+    /* margin-top: 20px !important; */
+
+}
+.footer_adress1{
+
+  color: #F1CDB3;
+  margin-top: 20px;
+  padding-top: 10px;
+  
+}
+.adress1_item{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px !important;
+    line-height: 23px !important;
+    letter-spacing: 7% !important;
+    
+    /* margin-top: 20px !important; */
+
+}
+
+.footer_adress2{
+
+  color: #F1CDB3;
+  margin-top: 20px;
+  padding-top: 10px;
+  
+}
+.adress2_item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px !important;
+    line-height: 23px !important;
+    letter-spacing: 7% !important;
+    
+    /* margin-top: 20px !important; */
+
+}
+
+.footer_icon{
+margin-right: 20px;
+
+}
+/* =========== SECTION *** FOOTER *** =========== END ============ */
